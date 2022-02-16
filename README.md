@@ -20,3 +20,5 @@
 
 ###  Puedes encontrarme 📝
 [<img align="left" alt="bilgehangecici.site" width="40px" src="https://c.tenor.com/quphSIVh9n0AAAAC/facebook-fb.gif"/>](https://www.facebook.com/MTECNOLOGIC)
+[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/jorge-isaac-montero-gutierrez-258a3b188/)
+[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />](https://www.instagram.com/mtecnologic/)
