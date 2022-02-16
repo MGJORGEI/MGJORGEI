@@ -2,7 +2,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-##  Desarrollador Freelancer back-end developer 💻 
+
+#  Desarrollador Freelancer back-end developer 💻 
 
 - 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, Python, REACT.
 - 📚 Actualmente estoy aprendiendo todo sobre las tecnologías  Backend 😎
