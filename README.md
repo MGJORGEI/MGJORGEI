@@ -10,11 +10,16 @@
 - 💪🏼 Mis Metas: Mejorar mis habilidades de desarrollo web y compartir el conocimiento adquirido 
 - ⚡  Dato curioso: me encanta jugar en la PC 🎮 y comer  ᴛⷮaͣcͨoͦs͛.
 
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ###  Spotify Reproduciendo 🎧
 
- <img align="left" alt="bilgehangecici.site" width="40px" src="https://c.tenor.com/quphSIVh9n0AAAAC/facebook-fb.gif href= https://www.facebook.com/MTECNOLOGIC"/> 
+[![ Spotify ](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12140479031)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+###  Puedes encontrarme 📝
