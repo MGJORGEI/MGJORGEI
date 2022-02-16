@@ -12,11 +12,10 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://pixel.chat/8g4tk_rM5yNdDvS/a29523d1-6f10-4238-8e50-0762afaf554a" />
 
 ###  Spotify Reproduciendo 🎧
 
-[![ Spotify ](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12140479031)
+[![ Spotify ](https://pixel.chat/8g4tk_rM5yNdDvS/a29523d1-6f10-4238-8e50-0762afaf554a)](https://open.spotify.com/user/12140479031)
 
----
 ---
