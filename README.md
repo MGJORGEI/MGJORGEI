@@ -19,3 +19,4 @@
 ---
 
 ###  Puedes encontrarme 📝
+[<img align="left" alt="bilgehangecici.site" width="40px" src="https://c.tenor.com/quphSIVh9n0AAAAC/facebook-fb.gif"/>](https://www.facebook.com/MTECNOLOGIC)
