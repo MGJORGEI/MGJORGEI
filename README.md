@@ -11,13 +11,11 @@
 - ⚡  Dato curioso: me encanta jugar en la PC 🎮 y comer  ᴛⷮaͣcͨoͦs͛.
 
 
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ###  Spotify Reproduciendo 🎧
 
-[![ Spotify ](https://pixel.chat/8g4tk_rM5yNdDvS/a29523d1-6f10-4238-8e50-0762afaf554a)](https://open.spotify.com/user/12140479031)
-
+[![ Spotify ](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12140479031)
 ---
