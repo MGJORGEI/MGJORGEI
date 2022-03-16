@@ -3,14 +3,11 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 
-
-
-back-end Freelancer💻
-- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, Python, REACT.
-- 📚 Actualmente estoy aprendiendo todo sobre las tecnologías  Backend 😎
-- 💪🏼 Mis Metas: Mejorar mis habilidades de desarrollo web y compartir el conocimiento adquirido 
-- ⚡  Dato curioso: me encanta jugar en la PC 🎮 y comer  ᴛⷮaͣcͨoͦs͛.
-
+ Desarrollador Freelancer back-end💻
+- 👨‍💻Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, Python, REACT.
+- 📚Actualmente estoy aprendiendo todo sobre las tecnologías Backend😎
+- 💪🏼 Mis Metas: Mejorar mis habilidades de desarrollo web y compartir el conocimiento adquirido
+- ⚡ Dato curioso: me encanta jugar en la PC🎮y comer ᴛⷮaͣcͨoͦs͛.
 ---
 ###  Spotify Reproduciendo 🎧
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
