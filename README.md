@@ -5,8 +5,7 @@
 
 
 
-#  Desarrollador Freelancer back-end developer 💻 
-
+back-end Freelancer💻
 - 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, Python, REACT.
 - 📚 Actualmente estoy aprendiendo todo sobre las tecnologías  Backend 😎
 - 💪🏼 Mis Metas: Mejorar mis habilidades de desarrollo web y compartir el conocimiento adquirido 
