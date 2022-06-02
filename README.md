@@ -8,14 +8,26 @@
 - 📚Actualmente estoy aprendiendo todo sobre las tecnologías Backend😎
 - 💪🏼 Mis Metas: Mejorar mis habilidades de desarrollo web y compartir el conocimiento adquirido
 - ⚡ Dato curioso: me encanta jugar en la PC🎮y comer ᴛⷮaͣcͨoͦs͛.
+
 ---
 ###  Spotify Reproduciendo 🎧
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="50px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![ Spotify ](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12140479031)
 
 ---
 
+<br/>
+
+###   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MGJORGEI&show_icons=true&theme=synthwave" alt="MGJORGEI :: Profile Stats" /></p>
+
+
+<br/>
 
 ###  Lenguajes y herramientas 🛠
 
