@@ -1,17 +1,17 @@
-#  Hola, soy Jorge Montero, también conocido como MGJORGEI <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+#  Hola, soy Jorge Montero, también conocido como MGJORGEI <img width="60" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
+<img align="right" alt="GIF" height="60" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 
  Desarrollador Freelancer back-end💻
-- 👨‍💻Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, Python, REACT.
+- 👨‍💻Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, Python y REACT.
 - 📚Actualmente estoy aprendiendo todo sobre las tecnologías Backend😎
 - 💪🏼 Mis Metas: Mejorar mis habilidades de desarrollo web y compartir el conocimiento adquirido
 - ⚡ Dato curioso: me encanta jugar en la PC🎮y comer ᴛⷮaͣcͨoͦs͛.
 
 ---
 ###  Spotify Reproduciendo 🎧
-<img align="right" alt="GIF" height="50px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="120" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![ Spotify ](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12140479031)
 
@@ -20,14 +20,25 @@
 <br/>
 
 ###   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGJORGEI&layout=compact)](https://github.com/MGJORGEI/github-readme-stats)
 ---
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MGJORGEI&show_icons=true&theme=synthwave" alt="MGJORGEI :: Profile Stats" /></p>
+<p align=""><img src="https://github-readme-stats.vercel.app/api?username=MGJORGEI&show_icons=true&theme=synthwave" alt="MGJORGEI :: Profile Stats" /></p>
 
 
 <br/>
+
+---
+
+###  Insignias alura Latam 🥇
+
+<p align="center"><img  width="150"  src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
+<img  width="150" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png"></p>
+
+
+
+---
 
 ###  Lenguajes y herramientas 🛠
 
