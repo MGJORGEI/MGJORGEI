@@ -31,7 +31,7 @@
 
 ---
 
-###  Insignias alura Latam 🥇
+###  Insignias Alura Latam 🥇
 
 <p align="center"><img  width="150"  src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
 <img  width="150" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png"></p>
