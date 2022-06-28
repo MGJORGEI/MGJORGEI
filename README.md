@@ -66,7 +66,8 @@
 ---
 ###  Puedes ver mi Portafolio aqui: 👇
 
-[![Portafolio](https://user-images.githubusercontent.com/89808639/176256526-c546ada4-1d9a-4ba1-9d62-6032388d8180.png)](https://mgjorgei.github.io/ChallengeFrontPortafolio/) 
+![Diseño sin título (1)](https://user-images.githubusercontent.com/89808639/176257236-60fe2846-9429-4ee5-a4e3-c03c574896ab.png)
+(https://mgjorgei.github.io/ChallengeFrontPortafolio/) 
 
 
 <br/>
