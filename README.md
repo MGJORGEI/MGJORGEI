@@ -65,8 +65,8 @@
 
 ---
 ###  Puedes ver mi Portafolio aqui: 👇
+<p align="center"
+[![Portafolio](https://user-images.githubusercontent.com/89808639/176254247-bcc42d31-ad6f-4305-bab9-6f12ea7d8740.png)](https://mgjorgei.github.io/ChallengeFrontPortafolio/) />
 
-<p align="center">  
-[![ Portafolio ]([https://novatorem.bgstatic.vercel.app/api/spotify](https://user-images.githubusercontent.com/89808639/176252339-2ea121ee-15a2-4bc3-8fdc-5b83d0266e87.png))]([https://open.spotify.com/user/12140479031](https://mgjorgei.github.io/ChallengeFrontPortafolio/))
 
 <br/>
