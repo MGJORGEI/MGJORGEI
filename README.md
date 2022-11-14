@@ -73,7 +73,7 @@
 
 
 <a href="https://mgjorgei.github.io/ChallengeFrontPortafolio/">
-  <img src="https://user-images.githubusercontent.com/89808639/201770504-304a5e06-1dd4-480c-8ea4-01c565f7321c.png" alt="portafolio" width="200" />
+  <img src="https://user-images.githubusercontent.com/89808639/201770504-304a5e06-1dd4-480c-8ea4-01c565f7321c.png" alt="portafolio" width="300" />
 </a>
 
 
