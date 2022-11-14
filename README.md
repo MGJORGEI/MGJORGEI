@@ -73,8 +73,8 @@
 
 
 
-<a> 
+ 
 [![ portafolio ](https://user-images.githubusercontent.com/89808639/201770504-304a5e06-1dd4-480c-8ea4-01c565f7321c.png)](https://github.com/MGJORGEI/github-readme-stats)
-</a>
+
   
 <br/>
