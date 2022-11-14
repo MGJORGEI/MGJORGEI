@@ -1,6 +1,6 @@
 #  Hola, soy Jorge Montero!  <img width="60" src="https://media.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" />
 
-<img align="right" alt="GIF" height="60" src="https://media.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif"/>
+<img align="right" alt="GIF" height="80" src="https://media.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif"/>
 
 
  Desarrollador Freelancer back-end💻
