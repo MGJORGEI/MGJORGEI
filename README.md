@@ -69,7 +69,7 @@
 ![ Ventanas ](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-###  Puedes ver mi Portafolio aqui: 👇
+###  Dando click a la imagen puedes ver mi portafolio: 👇
 
 
 <a href="https://mgjorgei.github.io/ChallengeFrontPortafolio/">
