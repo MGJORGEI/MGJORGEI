@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="80" src="https://media.tenor.com/UgAnSKyr8DwAAAAi/cat-robot.gif"/>
 
 
- Desarrollador Freelancer back-end💻
+ Desarrollador Freelancer 💻
 - 👨‍💻Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, Python y REACT.
 - 📚Actualmente estoy aprendiendo todo sobre las tecnologías Backend😎
 - 💪🏼 Mis Metas: Mejorar mis habilidades de desarrollo web y compartir el conocimiento adquirido
