@@ -5,9 +5,9 @@
 
  Desarrollador Freelancer 💻
 - 👨‍💻Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, Python y REACT.
-- 📚Actualmente estoy aprendiendo todo sobre las tecnologías Backend😎
+- 📚Estoy aprendiendo todo sobre las tecnologías Backend😎
 - 💪🏼 Mis Metas: Mejorar mis habilidades de desarrollo web y compartir el conocimiento adquirido
-- ⚡ Dato curioso: me encanta jugar en la PC🎮y comer ᴛⷮaͣcͨoͦs͛.
+- ⚡ Dato curioso: me encanta jugar en la PC 🎮 y comer ᴛⷮaͣcͨoͦs͛.
 
 ---
 ###  Spotify Reproduciendo 🎧
