@@ -1,4 +1,4 @@
-#  Hola, soy Jorge Montero, también conocido como MGJORGEI <img width="60" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+#  Hola, soy Jorge Montero!  <img width="60" src="https://tenor.com/btq1a.gif" />
 
 <img align="right" alt="GIF" height="60" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
