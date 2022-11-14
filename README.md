@@ -71,7 +71,10 @@
 ---
 ###  Puedes ver mi Portafolio aqui: 👇
 
-[![align="right" alt="GIF" height="60" ](https://user-images.githubusercontent.com/89808639/201768548-3a4261b6-e3c5-4171-bc51-cb4212f1ff65.png)](https://mgjorgei.github.io/ChallengeFrontPortafolio/)
+
+[![img align="right" alt="GIF" height="120"](https://user-images.githubusercontent.com/89808639/201770504-304a5e06-1dd4-480c-8ea4-01c565f7321c.png)](https://mgjorgei.github.io/ChallengeFrontPortafolio/)
+  
+
 
 
 
