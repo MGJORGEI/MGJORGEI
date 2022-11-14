@@ -1,4 +1,4 @@
-#  Hola, soy Jorge Montero!  <img width="60" src="https://tenor.com/btq1a.gif" />
+#  Hola, soy Jorge Montero!  <img width="60" src="https://media.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" />
 
 <img align="right" alt="GIF" height="60" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
