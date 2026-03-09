@@ -13,7 +13,8 @@
 <!-- SOCIAL BADGES -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mgjorgei.github.io/portafolioJM/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MGJORGEI)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12140479031)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mgjorgei/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/524775414201)
 
 <img src="https://komarev.com/ghpvc/?username=MGJORGEI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
@@ -25,8 +26,9 @@
 
 ```yaml
 nombre: Jorge Montero
-ubicación: LATAM
-rol: Fullstack Developer & AI Enthusiast
+ubicación: León, Guanajuato, México
+rol: Gerente IT @ Campoviña | Fullstack Developer | AI Enthusiast
+educación: Ing. Sistemas Computacionales - Universidad de León
 disponible_para: Freelance & Colaboraciones
 
 sobre_mi:
@@ -36,6 +38,22 @@ sobre_mi:
   - 🧠 Apasionado por la intersección entre desarrollo web e inteligencia artificial
   - 🎮 Fun fact: gamer de PC y amante de los tacos 🌮
 ```
+
+---
+
+## 📄 Mi CV Online
+
+<div align="center">
+
+> 🔗 **[Ver mi CV completo en línea](https://mgjorgei.github.io/portafolioJM/assets/cv.pdf)** | **[Descargar PDF](https://raw.githubusercontent.com/MGJORGEI/portafolioJM/main/assets/cv.pdf)**
+
+| | Experiencia Profesional |
+|---|---|
+| 🏢 **Campoviña** | Gerente IT *(Mar 2023 - Presente)* |
+| 💻 **MTEC** | Auxiliar IT / Desarrollador Web *(Sep 2019 - Ago 2023)* |
+| 🖥️ **Grupo USA** | Auxiliar de Sistemas *(Jul 2014 - Ago 2019)* |
+
+</div>
 
 ---
 
@@ -89,7 +107,7 @@ sobre_mi:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
@@ -97,16 +115,22 @@ sobre_mi:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MGJORGEI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MGJORGEI&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" />
+<a href="https://github.com/MGJORGEI">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MGJORGEI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/MGJORGEI">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=MGJORGEI&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" />
+</a>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGJORGEI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=C9D1D9" />
+<a href="https://github.com/MGJORGEI">
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MGJORGEI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=C9D1D9" />
+</a>
 
 </div>
 
@@ -126,25 +150,19 @@ sobre_mi:
 
 ---
 
-## 🎧 Ahora escuchando
+## 🥇 Certificaciones
 
 <div align="center">
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12140479031)
+| Certificación | Plataforma |
+|---|---|
+| 🎓 [Front End F2G2 - ONE](https://app.aluracursos.com/degree/certificate/91ea0676-2d0b-40bb-93aa-b7f9239acf78) | Oracle Next Education |
+| 📊 [Python Pandas: Tratamiento y análisis de datos](https://app.aluracursos.com/certificate/0a0eb942-f80d-4dfc-9b70-d2809b8984f8) | Alura Latam |
+| 🐍 [Python Data Science: Funciones y Librerías](https://app.aluracursos.com/certificate/522f478e-5df1-4ec6-a622-31bea1fa4846) | Alura Latam |
+| ☕ [Java y java.lang: Object y String](https://app.aluracursos.com/certificate/3eaf0379-e859-455c-929f-93c7a9c085d8) | Alura Latam |
+| 🔀 [Git y GitHub: Control de código](https://app.aluracursos.com/certificate/fe0ce2f8-af6b-4bb2-a2f2-8ee84c2aaebd) | Alura Latam |
 
 </div>
-
----
-
-## 🥇 Certificaciones
-
-<p align="center">
-  <img width="110" src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png" />
-  <img width="110" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png" />
-  <img width="110" src="https://user-images.githubusercontent.com/89808639/175804421-0cee4c26-662f-4cf7-862d-458cd647362d.png" />
-  <img width="110" src="https://user-images.githubusercontent.com/89808639/193148496-e66ec091-34fe-4439-8c8a-e32f9dc2dec3.png" />
-  <img width="110" src="https://user-images.githubusercontent.com/89808639/193151840-710925ad-551d-455e-9f1e-e3ab8e5eb1e2.png" />
-</p>
 
 ---
 
